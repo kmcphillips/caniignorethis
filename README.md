@@ -1,2 +1,1 @@
-# caniignorethis
-Static site for checking if you can ignore some work
+Can I ignore this work?
